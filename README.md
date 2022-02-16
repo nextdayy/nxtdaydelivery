@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm amazon prime delivery man :100:</h1>
-<h3 align="center">A intermediate developer who knows some Java, Python and a lil bit of Kotlin</h3>
+<h3 align="center">An intermediate developer who knows some Java, Python and a lil bit of Kotlin</h3>
 
 - 🌱 I’m currently learning **Kotlin** <img height=20 src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg">
 
@@ -8,11 +8,13 @@
 
 - 📫 How to reach me: **Discord - **nextdaydelivery#2887**
 
-- ⚡ What I like to do: **I like gaming, drawing, graphic design...and coding of course**
+- ⚡ What I like to do: **I like gaming, graphic design, and coding of course kekw**
 
-- ✔️ Check out my mods: [quickStats](https://github.com/nxtdaydelivery/quickStats), [Tabulous](https://github.com/W-OVERFLOW/Tabulous)
+- ✔️ Check out my mods (here are some of the cool ones): [quickStats](https://github.com/nxtdaydelivery/quickStats), [Tabulous](https://github.com/W-OVERFLOW/Tabulous)
 
-- P.S. I work for Polyfrost and W-OVERFLOW <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4">  <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4">  <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4">  <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4">  <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4">  <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4"> (they very cool)
+- ⚙️ I work for Polyfrost and W-OVERFLOW <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4">  <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4">  <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4">  <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4">  <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4">  <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4"> (they very cool)
+
+- 💝 Hope you guys love my work!
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
