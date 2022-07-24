@@ -18,9 +18,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tempie.gfx/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_tempie)
+https://discord.gg/polyfrost
   
 </div>
 
