@@ -6,11 +6,11 @@
 
 - 👯 I’m hope to be able to go into **Software Development** or **Cyber Security**
 
-- 📫 How to reach me: **Discord - **nextdaydelivery#2887**
+- 📫 How to reach me: **Discord** - **nextdaydelivery#2887**
 
 - ⚡ What I like to do: **I like gaming, graphic design, and coding of course kekw**
 
-- ✔️ Check out my mods (here are some of the cool ones): [quickStats](https://github.com/nxtdaydelivery/quickStats), [Tabulous](https://github.com/W-OVERFLOW/Tabulous)
+- ✔️ Check out my mods (here are some of the cool ones): [OneConfig](https://github.com/Polyfrost/OneConfig), [quickStats](https://github.com/nxtdaydelivery/quickStats), [Tabulous](https://github.com/W-OVERFLOW/Tabulous)
 
 - ⚙️ I work for Polyfrost and W-OVERFLOW <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4">  <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4">  <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4">  <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4">  <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4">  <img height=20 src="https://avatars.githubusercontent.com/u/89405979?s=200&v=4"> (they very cool)
 
@@ -25,19 +25,25 @@ https://discord.gg/polyfrost
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/java/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/a0040ee40dfc50f40e9ee72e28bae1d24173d557/svg/java.svg" alt="java" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/a0040ee40dfc50f40e9ee72e28bae1d24173d557/svg/csharp.svg" alt="c#" width="40" height="40"/> 
+  <a href="https://kotlinlang.org/" target"_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" alt="kotlin" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/c/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/a0040ee40dfc50f40e9ee72e28bae1d24173d557/svg/c.svg" alt="c" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <a href="https://www.archlinux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ARL.png" alt="i use arch btw" width="40" height="40"/> 
   </a> 
-  <a href="https://www.microsoft.com/en-gb/software-download/windows10" target="_blank"> 
+  <a href="https://www.microsoft.com/en-gb/software-download/windows11" target="_blank"> 
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/9f0858601cc8543b51c8eea0722dbab4a7c7a1f9/logos/microsoft-windows.svg" alt="windows" width="40" height="40"/> 
   </a> 
 </p>
