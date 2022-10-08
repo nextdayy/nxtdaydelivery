@@ -16,9 +16,7 @@
 
 - 💝 Hope you guys love my work!
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-https://discord.gg/polyfrost
+
   
 </div>
 
